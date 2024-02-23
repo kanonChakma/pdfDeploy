@@ -18,7 +18,7 @@ const PdfViewer = () => {
         }}
       >
         <Viewer
-          fileUrl="https://pdfobject.com/pdf/sample.pdf"
+          fileUrl="https://pdf.wwwjumjournalmusic.top/wp-content/uploads/2024/02/doc6.pdf"
           plugins={[defaultLayoutPluginInstance]}
         />
       </div>
